@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc6530e2-d8e2-4c0b-9251-37a5bf3e09c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/tdd/mockobjects/MySQLConnectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/tdd/mockobjects/CUTdisplayResultSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/qa/tdd/mockobjects/MySQLConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/qa/tdd/mockobjects/MySQLConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/qa/tdd/mockobjects/MySQLConnectTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="qa.tdd.mockobjects" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -66,6 +72,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="436" y="352" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578579503208">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="436" y="352" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578579503208" />
     <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1578578445021">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
